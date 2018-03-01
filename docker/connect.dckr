@@ -1,0 +1,19 @@
+docker run -it --rm --name c_python_alpine_airbnb.calupdate --mount type=bind,source=/Users/szfarkas/Development/Airbnb.Calupdate/code,target=/src/my_app python:django bash
+
+
+docker run -d --rm -v ~/.config/sublime_text_3/Packages/Anaconda:/opt/anaconda -v ~/my_project:/my_project -p 9999:9999 python:2.7 /opt/anaconda/anaconda_server/docker/start python 9999 docker_project
+
+
+docker run -it --rm --name c_python_alpine_airbnb.calupdate --mount type=bind,source="/Users/szfarkas/Library/Application Support/Sublime Text 3/Packages/Anaconda",target=/opt/anaconda --mount type=bind,source=/Users/szfarkas/Development/Airbnb.Calupdate/code,target=/src/my_app -p 9999:9999 python:slim /opt/anaconda/anaconda_server/docker/start python 9999 docker_project /src/my_app
+
+docker run -it --rm --name c_python_alpine_airbnb.calupdate --mount type=bind,source="/Users/szfarkas/Library/Application Support/Sublime Text 3/Packages/Anaconda",target=/opt/anaconda --mount type=bind,source=/Users/szfarkas/Development/Airbnb.Calupdate/code,target=/src/my_app -p 9999:9999 python:slim bash
+
+
+-------
+
+{
+    "settings": {
+        "python_interpreter": "tcp://127.0.0.1:9999?pathmap=/Users/szfarkas/Development/Airbnb.Calupdate/code,/src/my_app"
+    }
+}
+

@@ -1,0 +1,809 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//Airbnb Inc//Hosting Calendar 0.8.8//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170217
+DTSTART;VALUE=DATE:20170122
+UID:jmhql8l73iq5--fjjidlwu8drw@airbnb.com
+DESCRIPTION:CHECKIN: 01/22/2017\nCHECKOUT: 02/17/2017\nNIGHTS: 26\nPHONE:
+  +55 11 99259 2592\nEMAIL: (no email alias available)\nPROPERTY: A charm
+ ing loft near the central\n
+SUMMARY:Nini Ferrari (HTHDQC)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170220
+DTSTART;VALUE=DATE:20170217
+UID:jmhql8l73iq5--x0o6bo30ocrs@airbnb.com
+DESCRIPTION:CHECKIN: 02/17/2017\nCHECKOUT: 02/20/2017\nNIGHTS: 3\nPHONE: 
+ +44 7929 105638\nEMAIL: (no email alias available)\nPROPERTY: A charming
+  loft near the central\n
+SUMMARY:Chris Feeney (W23F88)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170411
+DTSTART;VALUE=DATE:20170407
+UID:jmhql8l73iq5--gz14ik6pdxqa@airbnb.com
+DESCRIPTION:CHECKIN: 04/07/2017\nCHECKOUT: 04/11/2017\nNIGHTS: 4\nPHONE: 
+ +34 635 923 240\nEMAIL: (no email alias available)\nPROPERTY: A charming
+  loft near the central\n
+SUMMARY:Raul Montala (SJRZB4)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170419
+DTSTART;VALUE=DATE:20170411
+UID:jmhql8l73iq5--mjfcn5dcdxmq@airbnb.com
+DESCRIPTION:CHECKIN: 04/11/2017\nCHECKOUT: 04/19/2017\nNIGHTS: 8\nPHONE: 
+ +49 151 5920 9142\nEMAIL: (no email alias available)\nPROPERTY: A charmi
+ ng loft near the central\n
+SUMMARY:Claudia Haferkamp (3D34S9)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170426
+DTSTART;VALUE=DATE:20170421
+UID:jmhql8l73iq5-7jx53i86g2q@airbnb.com
+DESCRIPTION:CHECKIN: 04/21/2017\nCHECKOUT: 04/26/2017\nNIGHTS: 5\nPHONE: 
+ +49 170 4724 520\nEMAIL: (no email alias available)\nPROPERTY: A charmin
+ g loft near the central\n
+SUMMARY:Meira Jacobson (HMRHAKKFW9)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170429
+DTSTART;VALUE=DATE:20170427
+UID:jmhql8l73iq5-l7uy35g20u6k@airbnb.com
+DESCRIPTION:CHECKIN: 04/27/2017\nCHECKOUT: 04/29/2017\nNIGHTS: 2\nPHONE: 
+ +49 157 7198 5405\nEMAIL: (no email alias available)\nPROPERTY: A charmi
+ ng loft near the central\n
+SUMMARY:Janek Schwedek (HM3KXNYDJX)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170502
+DTSTART;VALUE=DATE:20170429
+UID:jmhql8l73iq5--brfr8k6d80@airbnb.com
+DESCRIPTION:CHECKIN: 04/29/2017\nCHECKOUT: 05/02/2017\nNIGHTS: 3\nPHONE: 
+ +49 151 2291 4512\nEMAIL: (no email alias available)\nPROPERTY: A charmi
+ ng loft near the central\n
+SUMMARY:Oliver Lackmann (WJPNTF)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170507
+DTSTART;VALUE=DATE:20170505
+UID:jmhql8l73iq5-31k2wdmk09p0@airbnb.com
+DESCRIPTION:CHECKIN: 05/05/2017\nCHECKOUT: 05/07/2017\nNIGHTS: 2\nPHONE: 
+ +32 487 38 44 46\nEMAIL: (no email alias available)\nPROPERTY: A charmin
+ g loft near the central\n
+SUMMARY:Jörg Gebhard (HMTQSK8D4A)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170511
+DTSTART;VALUE=DATE:20170507
+UID:jmhql8l73iq5--rxnk7gz2mpag@airbnb.com
+DESCRIPTION:CHECKIN: 05/07/2017\nCHECKOUT: 05/11/2017\nNIGHTS: 4\nPHONE: 
+ +39 331 451 2101\nEMAIL: (no email alias available)\nPROPERTY: A charmin
+ g loft near the central\n
+SUMMARY:Martina Soggin (HMTE4QDW5F)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170515
+DTSTART;VALUE=DATE:20170512
+UID:jmhql8l73iq5-wxqgxm5ozv2g@airbnb.com
+DESCRIPTION:CHECKIN: 05/12/2017\nCHECKOUT: 05/15/2017\nNIGHTS: 3\nPHONE: 
+ +55 31 98601 7777\nEMAIL: (no email alias available)\nPROPERTY: A charmi
+ ng loft near the central\n
+SUMMARY:Arthur Cesar Esteves Ottoni Barbosa (HM98ES4SXW)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170521
+DTSTART;VALUE=DATE:20170516
+UID:jmhql8l73iq5--t535xhncljcc@airbnb.com
+DESCRIPTION:CHECKIN: 05/16/2017\nCHECKOUT: 05/21/2017\nNIGHTS: 5\nPHONE: 
+ +1 (415) 378-2179\nEMAIL: (no email alias available)\nPROPERTY: A charmi
+ ng loft near the central\n
+SUMMARY:Gina Pelucca (HMCQERJDJM)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170526
+DTSTART;VALUE=DATE:20170523
+UID:jmhql8l73iq5--vco3a0m8ew3o@airbnb.com
+DESCRIPTION:CHECKIN: 05/23/2017\nCHECKOUT: 05/26/2017\nNIGHTS: 3\nPHONE: 
+ +60 16 800 6669\nEMAIL: (no email alias available)\nPROPERTY: A charming
+  loft near the central\n
+SUMMARY:Terence Chong (HM4PJ5CNZS)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170529
+DTSTART;VALUE=DATE:20170526
+UID:jmhql8l73iq5--wkr28ith95rs@airbnb.com
+DESCRIPTION:CHECKIN: 05/26/2017\nCHECKOUT: 05/29/2017\nNIGHTS: 3\nPHONE: 
+ +33 6 71 28 11 43\nEMAIL: (no email alias available)\nPROPERTY: A charmi
+ ng loft near the central\n
+SUMMARY:Carole Vazard (HMXPX3ZX8A)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170601
+DTSTART;VALUE=DATE:20170529
+UID:jmhql8l73iq5-dqccm7wbmkuc@airbnb.com
+DESCRIPTION:CHECKIN: 05/29/2017\nCHECKOUT: 06/01/2017\nNIGHTS: 3\nPHONE: 
+ +420 732 816 618\nEMAIL: (no email alias available)\nPROPERTY: A charmin
+ g loft near the central\n
+SUMMARY:Jan Hais (HMSRSDC98F)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170605
+DTSTART;VALUE=DATE:20170601
+UID:jmhql8l73iq5--dtyqsajpfp1y@airbnb.com
+DESCRIPTION:CHECKIN: 06/01/2017\nCHECKOUT: 06/05/2017\nNIGHTS: 4\nPHONE: 
+ +33 6 74 07 80 93\nEMAIL: (no email alias available)\nPROPERTY: A charmi
+ ng loft near the central\n
+SUMMARY:Nicole Griffa-Pasquier (HM5RNM8SST)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170608
+DTSTART;VALUE=DATE:20170605
+UID:jmhql8l73iq5--y288kc74lu8o@airbnb.com
+DESCRIPTION:CHECKIN: 06/05/2017\nCHECKOUT: 06/08/2017\nNIGHTS: 3\nPHONE: 
+ +44 7930 893512\nEMAIL: (no email alias available)\nPROPERTY: A charming
+  loft near the central\n
+SUMMARY:Yusuf Tayara (HMSK344MBA)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170613
+DTSTART;VALUE=DATE:20170610
+UID:jmhql8l73iq5--3qjfl50ve4um@airbnb.com
+DESCRIPTION:CHECKIN: 06/10/2017\nCHECKOUT: 06/13/2017\nNIGHTS: 3\nPHONE: 
+ +44 7852 996879\nEMAIL: (no email alias available)\nPROPERTY: A charming
+  loft near the central\n
+SUMMARY:Laura Foster (HMT5ZKTXTW)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170616
+DTSTART;VALUE=DATE:20170613
+UID:jmhql8l73iq5--w3x1qym4my7u@airbnb.com
+DESCRIPTION:CHECKIN: 06/13/2017\nCHECKOUT: 06/16/2017\nNIGHTS: 3\nPHONE: 
+ +44 7761 618541\nEMAIL: (no email alias available)\nPROPERTY: A charming
+  loft near the central\n
+SUMMARY:Ziyi Liu (HMFQNCYKNP)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170618
+DTSTART;VALUE=DATE:20170616
+UID:jmhql8l73iq5-2ov8175omah6@airbnb.com
+DESCRIPTION:CHECKIN: 06/16/2017\nCHECKOUT: 06/18/2017\nNIGHTS: 2\nPHONE: 
+ +1 (650) 284-8303\nEMAIL: (no email alias available)\nPROPERTY: A charmi
+ ng loft near the central\n
+SUMMARY:Nirmal Jacob Kurian (HMXFYYSF9K)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170621
+DTSTART;VALUE=DATE:20170618
+UID:jmhql8l73iq5-x0d9fz2jbvfk@airbnb.com
+DESCRIPTION:CHECKIN: 06/18/2017\nCHECKOUT: 06/21/2017\nNIGHTS: 3\nPHONE: 
+ +852 6352 2154\nEMAIL: (no email alias available)\nPROPERTY: A charming 
+ loft near the central\n
+SUMMARY:Becky Lui (HMY9FSZ5K2)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170630
+DTSTART;VALUE=DATE:20170622
+UID:jmhql8l73iq5-426bcssr7gv6@airbnb.com
+DESCRIPTION:CHECKIN: 06/22/2017\nCHECKOUT: 06/30/2017\nNIGHTS: 8\nPHONE: 
+ +1 (303) 945-6219\nEMAIL: (no email alias available)\nPROPERTY: A charmi
+ ng loft near the central\n
+SUMMARY:Elijah Ellis (HMQA4SSZXD)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170702
+DTSTART;VALUE=DATE:20170630
+UID:jmhql8l73iq5-rcezhk5hg0b2@airbnb.com
+DESCRIPTION:CHECKIN: 06/30/2017\nCHECKOUT: 07/02/2017\nNIGHTS: 2\nPHONE: 
+ +420 724 525 244\nEMAIL: (no email alias available)\nPROPERTY: A charmin
+ g loft near the central\n
+SUMMARY:Aleš Zavadský (HMEA2CCMRK)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170707
+DTSTART;VALUE=DATE:20170702
+UID:jmhql8l73iq5--antp80itct60@airbnb.com
+DESCRIPTION:CHECKIN: 07/02/2017\nCHECKOUT: 07/07/2017\nNIGHTS: 5\nPHONE: 
+ +46 70 352 29 95\nEMAIL: (no email alias available)\nPROPERTY: A charmin
+ g loft near the central\n
+SUMMARY:Olivia Jaensson (HMXKANQX58)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170711
+DTSTART;VALUE=DATE:20170707
+UID:jmhql8l73iq5--pspawnvinzsi@airbnb.com
+DESCRIPTION:CHECKIN: 07/07/2017\nCHECKOUT: 07/11/2017\nNIGHTS: 4\nPHONE: 
+ +44 7738 244772\nEMAIL: (no email alias available)\nPROPERTY: A charming
+  loft near the central\n
+SUMMARY:Neil Coxhead (HM4FS8F2KD)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170715
+DTSTART;VALUE=DATE:20170712
+UID:jmhql8l73iq5--bj1mscz6l3bg@airbnb.com
+DESCRIPTION:CHECKIN: 07/12/2017\nCHECKOUT: 07/15/2017\nNIGHTS: 3\nPHONE: 
+ +44 7805 593137\nEMAIL: (no email alias available)\nPROPERTY: A charming
+  loft near the central\n
+SUMMARY:Rosie Henry (HMDWWWSTBT)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170718
+DTSTART;VALUE=DATE:20170715
+UID:jmhql8l73iq5--mpfloii10y78@airbnb.com
+DESCRIPTION:CHECKIN: 07/15/2017\nCHECKOUT: 07/18/2017\nNIGHTS: 3\nPHONE: 
+ +44 7891 710408\nEMAIL: (no email alias available)\nPROPERTY: A charming
+  loft near the central\n
+SUMMARY:Bethany Nancekivell (HMWTAAM4A8)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170722
+DTSTART;VALUE=DATE:20170718
+UID:jmhql8l73iq5-wk2q5272wr2g@airbnb.com
+DESCRIPTION:CHECKIN: 07/18/2017\nCHECKOUT: 07/22/2017\nNIGHTS: 4\nPHONE: 
+ +44 7850 530235\nEMAIL: (no email alias available)\nPROPERTY: A charming
+  loft near the central\n
+SUMMARY:Josephine Knox (KM2M93)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170726
+DTSTART;VALUE=DATE:20170723
+UID:jmhql8l73iq5-6oqa4dd8apns@airbnb.com
+DESCRIPTION:CHECKIN: 07/23/2017\nCHECKOUT: 07/26/2017\nNIGHTS: 3\nPHONE: 
+ +43 676 7223 996\nEMAIL: (no email alias available)\nPROPERTY: A charmin
+ g loft near the central\n
+SUMMARY:Tessa Müller (HMDPS9ZYB4)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170729
+DTSTART;VALUE=DATE:20170727
+UID:jmhql8l73iq5--24q4pkg6z9n0@airbnb.com
+DESCRIPTION:CHECKIN: 07/27/2017\nCHECKOUT: 07/29/2017\nNIGHTS: 2\nPHONE: 
+ +32 493 30 68 52\nEMAIL: (no email alias available)\nPROPERTY: A charmin
+ g loft near the central\n
+SUMMARY:Magali Berghman (HMMDKEMWXQ)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170801
+DTSTART;VALUE=DATE:20170729
+UID:jmhql8l73iq5-n01tv2ei56eo@airbnb.com
+DESCRIPTION:CHECKIN: 07/29/2017\nCHECKOUT: 08/01/2017\nNIGHTS: 3\nPHONE: 
+ +34 617 545 996\nEMAIL: (no email alias available)\nPROPERTY: A charming
+  loft near the central\n
+SUMMARY:Pierpaolo Bianchi (HMD8ZCP8NP)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170805
+DTSTART;VALUE=DATE:20170801
+UID:jmhql8l73iq5--rm5scu2m0keg@airbnb.com
+DESCRIPTION:CHECKIN: 08/01/2017\nCHECKOUT: 08/05/2017\nNIGHTS: 4\nPHONE: 
+ +44 7773 209812\nEMAIL: (no email alias available)\nPROPERTY: A charming
+  loft near the central\n
+SUMMARY:Sophie Bass (HMAECPBWPS)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170807
+DTSTART;VALUE=DATE:20170805
+UID:jmhql8l73iq5-yw9e4eiqbcy8@airbnb.com
+DESCRIPTION:CHECKIN: 08/05/2017\nCHECKOUT: 08/07/2017\nNIGHTS: 2\nPHONE: 
+ +44 7889 595909\nEMAIL: (no email alias available)\nPROPERTY: A charming
+  loft near the central\n
+SUMMARY:Charlotte Bell (HMFSAZ9HCH)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170809
+DTSTART;VALUE=DATE:20170807
+UID:jmhql8l73iq5--my6f90rm4us6@airbnb.com
+DESCRIPTION:CHECKIN: 08/07/2017\nCHECKOUT: 08/09/2017\nNIGHTS: 2\nPHONE: 
+ +44 7500 748388\nEMAIL: (no email alias available)\nPROPERTY: A charming
+  loft near the central\n
+SUMMARY:Meagan Hyett (HMWQK2NXRC)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170815
+DTSTART;VALUE=DATE:20170809
+UID:jmhql8l73iq5-xyxg8fsutnnk@airbnb.com
+DESCRIPTION:CHECKIN: 08/09/2017\nCHECKOUT: 08/15/2017\nNIGHTS: 6\nPHONE: 
+ +44 7975 576808\nEMAIL: (no email alias available)\nPROPERTY: A charming
+  loft near the central\n
+SUMMARY:Natasha Smith (HMBKJBTCNM)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170820
+DTSTART;VALUE=DATE:20170816
+UID:jmhql8l73iq5-4xhk6i8x7d3u@airbnb.com
+DESCRIPTION:CHECKIN: 08/16/2017\nCHECKOUT: 08/20/2017\nNIGHTS: 4\nPHONE: 
+ +380 98 700 01 95\nEMAIL: (no email alias available)\nPROPERTY: A charmi
+ ng loft near the central\n
+SUMMARY:Oleksandr Shuienko (HMSQ2R2WBQ)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170822
+DTSTART;VALUE=DATE:20170820
+UID:jmhql8l73iq5-npmapqiiiasy@airbnb.com
+DESCRIPTION:CHECKIN: 08/20/2017\nCHECKOUT: 08/22/2017\nNIGHTS: 2\nPHONE: 
+ +1 (647) 832-8972\nEMAIL: (no email alias available)\nPROPERTY: A charmi
+ ng loft near the central\n
+SUMMARY:Sehyun Cho (HMZ2DSTYAM)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170824
+DTSTART;VALUE=DATE:20170822
+UID:jmhql8l73iq5--ikj7x8q1fc1w@airbnb.com
+DESCRIPTION:CHECKIN: 08/22/2017\nCHECKOUT: 08/24/2017\nNIGHTS: 2\nPHONE: 
+ +33 6 72 51 75 86\nEMAIL: (no email alias available)\nPROPERTY: A charmi
+ ng loft near the central\n
+SUMMARY:Manon De Parisot (HMFZWYBXBP)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170829
+DTSTART;VALUE=DATE:20170825
+UID:jmhql8l73iq5--o8v66o2up8pw@airbnb.com
+DESCRIPTION:CHECKIN: 08/25/2017\nCHECKOUT: 08/29/2017\nNIGHTS: 4\nPHONE: 
+ +33 6 42 11 44 92\nEMAIL: (no email alias available)\nPROPERTY: A charmi
+ ng loft near the central\n
+SUMMARY:Clémence Erimo (HMPQCZH2WB)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170903
+DTSTART;VALUE=DATE:20170829
+UID:jmhql8l73iq5-fess9654djt6@airbnb.com
+DESCRIPTION:CHECKIN: 08/29/2017\nCHECKOUT: 09/03/2017\nNIGHTS: 5\nPHONE: 
+ +1 (612) 810-5000\nEMAIL: (no email alias available)\nPROPERTY: A charmi
+ ng loft near the central\n
+SUMMARY:Elliott Elm (HMKCB52MAM)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170905
+DTSTART;VALUE=DATE:20170903
+UID:jmhql8l73iq5-ef4pyp4ng8wq@airbnb.com
+DESCRIPTION:CHECKIN: 09/03/2017\nCHECKOUT: 09/05/2017\nNIGHTS: 2\nPHONE: 
+ +1 (425) 698-8165\nEMAIL: (no email alias available)\nPROPERTY: A charmi
+ ng loft near the central\n
+SUMMARY:Dhruv Malhotra (HM4ZSKW3R9)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170910
+DTSTART;VALUE=DATE:20170905
+UID:jmhql8l73iq5-y33c3iz9fg0i@airbnb.com
+DESCRIPTION:CHECKIN: 09/05/2017\nCHECKOUT: 09/10/2017\nNIGHTS: 5\nPHONE: 
+ +44 7428 752922\nEMAIL: (no email alias available)\nPROPERTY: A charming
+  loft near the central\n
+SUMMARY:Josh Cowburn (HMQCSHNNZR)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170918
+DTSTART;VALUE=DATE:20170911
+UID:jmhql8l73iq5-piaz2hoot7be@airbnb.com
+DESCRIPTION:CHECKIN: 09/11/2017\nCHECKOUT: 09/18/2017\nNIGHTS: 7\nPHONE: 
+ +31 6 31 94 90 00\nEMAIL: (no email alias available)\nPROPERTY: A charmi
+ ng loft near the central\n
+SUMMARY:Onno Marges (HM8T2MHEH2)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170922
+DTSTART;VALUE=DATE:20170918
+UID:jmhql8l73iq5-umd1k89y9she@airbnb.com
+DESCRIPTION:CHECKIN: 09/18/2017\nCHECKOUT: 09/22/2017\nNIGHTS: 4\nPHONE: 
+ +32 474 04 94 96\nEMAIL: (no email alias available)\nPROPERTY: A charmin
+ g loft near the central\n
+SUMMARY:Bruno Bovsovers (HMTWFA24M9)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170925
+DTSTART;VALUE=DATE:20170922
+UID:jmhql8l73iq5-5lxgg16qraay@airbnb.com
+DESCRIPTION:CHECKIN: 09/22/2017\nCHECKOUT: 09/25/2017\nNIGHTS: 3\nPHONE: 
+ +49 176 3110 8905\nEMAIL: (no email alias available)\nPROPERTY: A charmi
+ ng loft near the central\n
+SUMMARY:Sebastian Möller (HMMABMCCCW)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170927
+DTSTART;VALUE=DATE:20170925
+UID:jmhql8l73iq5-kq5h6pq2wv9u@airbnb.com
+DESCRIPTION:CHECKIN: 09/25/2017\nCHECKOUT: 09/27/2017\nNIGHTS: 2\nPHONE: 
+ +44 7887 794614\nEMAIL: (no email alias available)\nPROPERTY: A charming
+  loft near the central\n
+SUMMARY:Matt Hubbard (HMTKHN4FR9)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170929
+DTSTART;VALUE=DATE:20170927
+UID:jmhql8l73iq5-u5leyvqp2dn4@airbnb.com
+DESCRIPTION:CHECKIN: 09/27/2017\nCHECKOUT: 09/29/2017\nNIGHTS: 2\nPHONE: 
+ +49 151 5948 7609\nEMAIL: (no email alias available)\nPROPERTY: A charmi
+ ng loft near the central\n
+SUMMARY:Konstantin Schulze (HM4SYTFA53)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20171002
+DTSTART;VALUE=DATE:20170929
+UID:jmhql8l73iq5--rz6jb1w29jaw@airbnb.com
+DESCRIPTION:CHECKIN: 09/29/2017\nCHECKOUT: 10/02/2017\nNIGHTS: 3\nPHONE: 
+ +44 7855 053518\nEMAIL: (no email alias available)\nPROPERTY: A charming
+  loft near the central\n
+SUMMARY:Jane Allen (HMFRHC3N83)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20171005
+DTSTART;VALUE=DATE:20171002
+UID:jmhql8l73iq5--7mwlslqg6v36@airbnb.com
+DESCRIPTION:CHECKIN: 10/02/2017\nCHECKOUT: 10/05/2017\nNIGHTS: 3\nPHONE: 
+ +49 163 6251 166\nEMAIL: (no email alias available)\nPROPERTY: A charmin
+ g loft near the central\n
+SUMMARY:Lukas Colner (HMR2AES55Z)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20171010
+DTSTART;VALUE=DATE:20171005
+UID:jmhql8l73iq5-qoydfqgyahpq@airbnb.com
+DESCRIPTION:CHECKIN: 10/05/2017\nCHECKOUT: 10/10/2017\nNIGHTS: 5\nPHONE: 
+ +82 10 6768 1055\nEMAIL: (no email alias available)\nPROPERTY: A charmin
+ g loft near the central\n
+SUMMARY:Yunmi Kim (HM9BDS8NAY)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20171012
+DTSTART;VALUE=DATE:20171010
+UID:jmhql8l73iq5-e6nq230c8bdi@airbnb.com
+DESCRIPTION:CHECKIN: 10/10/2017\nCHECKOUT: 10/12/2017\nNIGHTS: 2\nPHONE: 
+ +1 (417) 763-3727\nEMAIL: (no email alias available)\nPROPERTY: A charmi
+ ng loft near the central\n
+SUMMARY:David Erdos (HM44BD92BJ)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20171015
+DTSTART;VALUE=DATE:20171012
+UID:jmhql8l73iq5--espxb772o6yy@airbnb.com
+DESCRIPTION:CHECKIN: 10/12/2017\nCHECKOUT: 10/15/2017\nNIGHTS: 3\nPHONE: 
+ +61 434 556 386\nEMAIL: (no email alias available)\nPROPERTY: A charming
+  loft near the central\n
+SUMMARY:Beth Gregory (HMAAQXRSRJ)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20171018
+DTSTART;VALUE=DATE:20171016
+UID:jmhql8l73iq5--q589c7b3be8q@airbnb.com
+DESCRIPTION:CHECKIN: 10/16/2017\nCHECKOUT: 10/18/2017\nNIGHTS: 2\nPHONE: 
+ +30 695 596 0823\nEMAIL: (no email alias available)\nPROPERTY: A charmin
+ g loft near the central\n
+SUMMARY:Georgios Klaros (HM8CQFSZ48)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20171022
+DTSTART;VALUE=DATE:20171018
+UID:jmhql8l73iq5-nlxiskrpvdv8@airbnb.com
+DESCRIPTION:CHECKIN: 10/18/2017\nCHECKOUT: 10/22/2017\nNIGHTS: 4\nPHONE: 
+ +1 (416) 434-5694\nEMAIL: (no email alias available)\nPROPERTY: A charmi
+ ng loft near the central\n
+SUMMARY:Xian Zhou (HMWNK52CPP)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20171026
+DTSTART;VALUE=DATE:20171023
+UID:jmhql8l73iq5-w8tl8uifw9sq@airbnb.com
+DESCRIPTION:CHECKIN: 10/23/2017\nCHECKOUT: 10/26/2017\nNIGHTS: 3\nPHONE: 
+ +852 6756 7036\nEMAIL: (no email alias available)\nPROPERTY: A charming 
+ loft near the central\n
+SUMMARY:Karen Wong (HM3BAMT584)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20171029
+DTSTART;VALUE=DATE:20171027
+UID:jmhql8l73iq5-rp8p0ojh5bkw@airbnb.com
+DESCRIPTION:CHECKIN: 10/27/2017\nCHECKOUT: 10/29/2017\nNIGHTS: 2\nPHONE: 
+ +45 61 40 53 49\nEMAIL: (no email alias available)\nPROPERTY: A charming
+  loft near the central\n
+SUMMARY:Reed Cohen (HMTFRWFCJ3)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20171102
+DTSTART;VALUE=DATE:20171029
+UID:jmhql8l73iq5-wza2q9rp0hnw@airbnb.com
+DESCRIPTION:CHECKIN: 10/29/2017\nCHECKOUT: 11/02/2017\nNIGHTS: 4\nPHONE: 
+ +46 76 884 26 21\nEMAIL: (no email alias available)\nPROPERTY: A charmin
+ g loft near the central\n
+SUMMARY:Csilla Berczy (HMNPKN2AJP)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20171108
+DTSTART;VALUE=DATE:20171104
+UID:jmhql8l73iq5--l6su8iaexiue@airbnb.com
+DESCRIPTION:CHECKIN: 11/04/2017\nCHECKOUT: 11/08/2017\nNIGHTS: 4\nPHONE: 
+ +44 7875 708204\nEMAIL: (no email alias available)\nPROPERTY: A charming
+  loft near the central\n
+SUMMARY:Rosemary Davies (HMET9KHF3K)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20171110
+DTSTART;VALUE=DATE:20171108
+UID:jmhql8l73iq5-pnohap5qax2o@airbnb.com
+DESCRIPTION:CHECKIN: 11/08/2017\nCHECKOUT: 11/10/2017\nNIGHTS: 2\nPHONE: 
+ +44 7799 888548\nEMAIL: (no email alias available)\nPROPERTY: A charming
+  loft near the central\n
+SUMMARY:Lola Stewart (HMJP3K3FYM)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20171113
+DTSTART;VALUE=DATE:20171110
+UID:jmhql8l73iq5--d67c3ds5kigy@airbnb.com
+DESCRIPTION:CHECKIN: 11/10/2017\nCHECKOUT: 11/13/2017\nNIGHTS: 3\nPHONE: 
+ +44 7708 679496\nEMAIL: (no email alias available)\nPROPERTY: A charming
+  loft near the central\n
+SUMMARY:Kate Norris (HMWJNHSXZH)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20171119
+DTSTART;VALUE=DATE:20171115
+UID:jmhql8l73iq5--uktrs16zf0kc@airbnb.com
+DESCRIPTION:CHECKIN: 11/15/2017\nCHECKOUT: 11/19/2017\nNIGHTS: 4\nPHONE: 
+ +30 697 954 3474\nEMAIL: (no email alias available)\nPROPERTY: A charmin
+ g loft near the central\n
+SUMMARY:Anthony Arapoglou (HMRB2CW3TJ)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20171124
+DTSTART;VALUE=DATE:20171120
+UID:jmhql8l73iq5--qe2pi1y7wmfs@airbnb.com
+DESCRIPTION:CHECKIN: 11/20/2017\nCHECKOUT: 11/24/2017\nNIGHTS: 4\nPHONE: 
+ +44 7798 883772\nEMAIL: (no email alias available)\nPROPERTY: A charming
+  loft near the central\n
+SUMMARY:Roisin Keddy (HMTPSQ5ZND)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20171128
+DTSTART;VALUE=DATE:20171124
+UID:jmhql8l73iq5--fnw9ie3nmv6w@airbnb.com
+DESCRIPTION:CHECKIN: 11/24/2017\nCHECKOUT: 11/28/2017\nNIGHTS: 4\nPHONE: 
+ +31 6 44 42 98 97\nEMAIL: (no email alias available)\nPROPERTY: A charmi
+ ng loft near the central\n
+SUMMARY:Gigi Levens (HMSBRE9H3X)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20171204
+DTSTART;VALUE=DATE:20171129
+UID:jmhql8l73iq5-mxk9yrsluzy8@airbnb.com
+DESCRIPTION:CHECKIN: 11/29/2017\nCHECKOUT: 12/04/2017\nNIGHTS: 5\nPHONE: 
+ +30 693 634 9370\nEMAIL: (no email alias available)\nPROPERTY: A charmin
+ g loft near the central\n
+SUMMARY:Rea Anastasopoulou (HMKAHTQBEP)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20171210
+DTSTART;VALUE=DATE:20171206
+UID:jmhql8l73iq5-bwevngtlu49o@airbnb.com
+DESCRIPTION:CHECKIN: 12/06/2017\nCHECKOUT: 12/10/2017\nNIGHTS: 4\nPHONE: 
+ +39 339 134 2976\nEMAIL: (no email alias available)\nPROPERTY: A charmin
+ g loft near the central\n
+SUMMARY:Giulia Albertario (HMKQNP3YT3)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20171213
+DTSTART;VALUE=DATE:20171210
+UID:jmhql8l73iq5-t3mud5s5vy90@airbnb.com
+DESCRIPTION:CHECKIN: 12/10/2017\nCHECKOUT: 12/13/2017\nNIGHTS: 3\nPHONE: 
+ +30 697 020 2535\nEMAIL: (no email alias available)\nPROPERTY: A charmin
+ g loft near the central\n
+SUMMARY:Eleftheria Ioannidou (HMD8BF9WK2)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20171217
+DTSTART;VALUE=DATE:20171214
+UID:jmhql8l73iq5-deg4gt7td9w@airbnb.com
+DESCRIPTION:CHECKIN: 12/14/2017\nCHECKOUT: 12/17/2017\nNIGHTS: 3\nPHONE: 
+ +49 172 1679 570\nEMAIL: (no email alias available)\nPROPERTY: A charmin
+ g loft near the central\n
+SUMMARY:Miriam Wegner (HM42A2BMR2)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20171221
+DTSTART;VALUE=DATE:20171217
+UID:jmhql8l73iq5--beeblfjvixtc@airbnb.com
+DESCRIPTION:CHECKIN: 12/17/2017\nCHECKOUT: 12/21/2017\nNIGHTS: 4\nPHONE: 
+ +33 6 70 97 80 88\nEMAIL: lucie-tgd0minmo675xzrk@guest.airbnb.com\nPROPE
+ RTY: A charming loft near the central\n
+SUMMARY:Lucie Jacquot (HMCTH2RXCT)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20171225
+DTSTART;VALUE=DATE:20171221
+UID:jmhql8l73iq5-tz1nv90ejbac@airbnb.com
+DESCRIPTION:CHECKIN: 12/21/2017\nCHECKOUT: 12/25/2017\nNIGHTS: 4\nPHONE: 
+ +33 6 60 38 53 77\nEMAIL: jeanne-67xtohwlp9a4be08@guest.airbnb.com\nPROP
+ ERTY: A charming loft near the central\n
+SUMMARY:Jeanne Darcet (HM8DBAAKNW)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20171230
+DTSTART;VALUE=DATE:20171226
+UID:jmhql8l73iq5-d4tggah53tci@airbnb.com
+DESCRIPTION:CHECKIN: 12/26/2017\nCHECKOUT: 12/30/2017\nNIGHTS: 4\nPHONE: 
+ +31 6 12 56 77 38\nEMAIL: christophe-k61p64bphwp5qgfl@guest.airbnb.com\n
+ PROPERTY: A charming loft near the central\n
+SUMMARY:Christophe Augrandjean (HMKQN5292S)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20180102
+DTSTART;VALUE=DATE:20171230
+UID:jmhql8l73iq5-tz42ke9ges4m@airbnb.com
+DESCRIPTION:CHECKIN: 12/30/2017\nCHECKOUT: 01/02/2018\nNIGHTS: 3\nPHONE: 
+ +43 660 4035 626\nEMAIL: michael-oq2b4vwp3gotjqzw@guest.airbnb.com\nPROP
+ ERTY: A charming loft near the central\n
+SUMMARY:Michael Weiss (HMSQCWRZF2)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20180107
+DTSTART;VALUE=DATE:20180103
+UID:jmhql8l73iq5-8f7zqjh3viki@airbnb.com
+DESCRIPTION:CHECKIN: 01/03/2018\nCHECKOUT: 01/07/2018\nNIGHTS: 4\nPHONE: 
+ +33 6 78 68 18 57\nEMAIL: alison-btqsc9nqcciolku6@guest.airbnb.com\nPROP
+ ERTY: A charming loft near the central\n
+SUMMARY:Alison Hbt (HMSNCFYEPQ)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20180112
+DTSTART;VALUE=DATE:20180107
+UID:jmhql8l73iq5--txx3070hs9sg@airbnb.com
+DESCRIPTION:CHECKIN: 01/07/2018\nCHECKOUT: 01/12/2018\nNIGHTS: 5\nPHONE: 
+ +30 697 356 7140\nEMAIL: kostas-f58r0jhymbfkwlu9@guest.airbnb.com\nPROPE
+ RTY: A charming loft near the central\n
+SUMMARY:Kostas Dimas (HMZH5T9KJA)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20180117
+DTSTART;VALUE=DATE:20180113
+UID:jmhql8l73iq5--blbvtn1xg2sm@airbnb.com
+DESCRIPTION:CHECKIN: 01/13/2018\nCHECKOUT: 01/17/2018\nNIGHTS: 4\nPHONE: 
+ +49 151 6381 4445\nEMAIL: sophie-j91joman1skn6ec3@guest.airbnb.com\nPROP
+ ERTY: A charming loft near the central\n
+SUMMARY:Sophie Maloney (HMDR9QPJRZ)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20180123
+DTSTART;VALUE=DATE:20180119
+UID:jmhql8l73iq5--x06b8h251c72@airbnb.com
+DESCRIPTION:CHECKIN: 01/19/2018\nCHECKOUT: 01/23/2018\nNIGHTS: 4\nPHONE: 
+ +972 52 709 6703\nEMAIL: anna-n7q0ov8qs5hpg8nl@guest.airbnb.com\nPROPERT
+ Y: A charming loft near the central\n
+SUMMARY:Anna Rush (HMESW9MWTT)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20180128
+DTSTART;VALUE=DATE:20180126
+UID:jmhql8l73iq5--nl6z929kawgy@airbnb.com
+DESCRIPTION:CHECKIN: 01/26/2018\nCHECKOUT: 01/28/2018\nNIGHTS: 2\nPHONE: 
+ +31 6 57 58 59 58\nEMAIL: evi-f7k84j4vajb8jiqn@guest.airbnb.com\nPROPERT
+ Y: A charming loft near the central\n
+SUMMARY:Evi Rusconi (HMBMBXX8HQ)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20180201
+DTSTART;VALUE=DATE:20180129
+UID:jmhql8l73iq5-yxlxf884j558@airbnb.com
+DESCRIPTION:CHECKIN: 01/29/2018\nCHECKOUT: 02/01/2018\nNIGHTS: 3\nPHONE: 
+ +61 450 022 037\nEMAIL: kath-fv49mzjvt9rbwgyy@guest.airbnb.com\nPROPERTY
+ : A charming loft near the central\n
+SUMMARY:Kath Stapleton (HMFSPW8J43)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20180211
+DTSTART;VALUE=DATE:20180208
+UID:jmhql8l73iq5--it4630ek0wm0@airbnb.com
+DESCRIPTION:CHECKIN: 02/08/2018\nCHECKOUT: 02/11/2018\nNIGHTS: 3\nPHONE: 
+ +55 41 99630 6202\nEMAIL: giordano-8t2bv6fu13xurcme@guest.airbnb.com\nPR
+ OPERTY: A charming loft near the central\n
+SUMMARY:Giordano Maestrelli (HMRRZX5T4Y)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20180218
+DTSTART;VALUE=DATE:20180215
+UID:jmhql8l73iq5--t1fszh2kstoa@airbnb.com
+DESCRIPTION:CHECKIN: 02/15/2018\nCHECKOUT: 02/18/2018\nNIGHTS: 3\nPHONE: 
+ +44 7387 176341\nEMAIL: lucy-buhmx9kqn7jzvgzk@guest.airbnb.com\nPROPERTY
+ : A charming loft near the central\n
+SUMMARY:Lucy Dunkley (HMAR4XTYDY)
+LOCATION:A charming loft near the central
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170405
+DTSTART;VALUE=DATE:20170220
+UID:5zo9rbgjugpl-jy8ylvif57x@airbnb.com
+SUMMARY:Not available
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170421
+DTSTART;VALUE=DATE:20170419
+UID:5zo9rbgjugpl-utjniovsm5dv@airbnb.com
+SUMMARY:Not available
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20171104
+DTSTART;VALUE=DATE:20171102
+UID:5zo9rbgjugpl-eajymzhq3x9w@airbnb.com
+SUMMARY:Aircon repair
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20190121
+DTSTART;VALUE=DATE:20180420
+UID:5zo9rbgjugpl--18kua7aqnrjy@airbnb.com
+SUMMARY:Not available
+END:VEVENT
+END:VCALENDAR

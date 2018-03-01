@@ -1,0 +1,5 @@
+httplib2
+apiclient
+oauth2client
+ics
+zip
